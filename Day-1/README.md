@@ -4,6 +4,7 @@
 Familiarize with the fundamental concepts of C programming, including syntax, data types, and variable declaration.
 
 ## Tasks:
+
 ### Read and Understand Basic C Syntax:
   * Review the structure of a C program, including the `#include` directive, `main()` function, and return statement.
   * Understand how to write comments in C (single-line and multi-line).
@@ -39,4 +40,4 @@ Familiarize with the fundamental concepts of C programming, including syntax, da
   - The C Programming Language - Dennis & Brian - 2nd Edition
 
 ## Goal:
-By the end of the day, you should have a solid understanding of basic C syntax, data types, and how to declare and initialize variables. Happy coding!
+By the end of the day, I have solid understanding of basic C syntax, data types, and how to declare and initialize variables. Happy logic!
