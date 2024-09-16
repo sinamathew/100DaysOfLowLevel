@@ -1,4 +1,6 @@
 # Syntax, Data Types and Variables
+![Day 1 Code](https://imgur.com/0NuX1U8.jpg)
+*Getting startted with C syntax, data types and varibles. As always `Hello, World!` comes first.*
 
 ## Objective:
 Familiarize with the fundamental concepts of C programming, including syntax, data types, and variable declaration.
@@ -41,3 +43,5 @@ Familiarize with the fundamental concepts of C programming, including syntax, da
 
 ## Goal:
 By the end of the day, I have solid understanding of basic C syntax, data types, and how to declare and initialize variables. Happy logic!
+
+*[Full Blog Post](https://blog.sinamathew.tech/series/100days-of-low-level/c-syntax-data-types-and-variables)*
