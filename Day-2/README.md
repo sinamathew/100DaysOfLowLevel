@@ -1,5 +1,5 @@
 # Control Structures and Funtions
-![Day 2 Code](https://imgur.com/)
+![Day 2 Code](https://imgur.com/qibU7Sk.jpg)
 *Continuing my journey with control structures and funtions in C!*
 
 ## Objective:
