@@ -1,6 +1,6 @@
 # Control Structures and Funtions
 ![Day 2 Code](https://imgur.com/qibU7Sk.jpg)
-*Continuing my journey with control structures and funtions in C!*
+*Continuing my journey with control structures and functions in C!*
 
 ## Objective:
 Familiarize with control structures (if, else, while) and function in C programming.
