@@ -35,7 +35,7 @@ Familiarize with the fundamental concepts of C programming, including syntax, da
   * Try using different data types and observe how they behave.
 
 ### Reflect:
-  * Write a short reflection on what you learned today and any challenges you faced.
+  * Wrote a blog post reflection on what I learned today and any challenges I faced.
 
 ## Resources:
   - Low-Level Programming - Igor Zhirkov - © 2017
