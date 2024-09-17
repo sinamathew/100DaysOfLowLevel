@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include "header.h"
 
-int _putchar(char c);
-
 /**
  * main - Entry point
  * Description: print string to stdout using _putchar
