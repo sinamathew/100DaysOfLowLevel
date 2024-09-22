@@ -6,6 +6,7 @@
  * Description: Prints "Hello, World!" to the standard output
  */
 
+
 int main(void)
 {
 	printf("Hello, World!\n");
