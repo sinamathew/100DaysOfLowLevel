@@ -1,4 +1,4 @@
-# Day 3: Functions and Nested Loops
+# Functions and Nested Loops
 
 ![Day 3 Code](https://imgur.com/u7a2sPE.jpg)
 _Exploring functions and nested loops in C today!_
