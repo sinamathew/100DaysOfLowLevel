@@ -1,6 +1,6 @@
-# Day 5: Pointers and Arrays
+# Pointers and Arrays
 
-Day 5 Code
+![Day 5 Code]()
 *Learning about pointers and arrays in C today!*
 
 ## Objective:
