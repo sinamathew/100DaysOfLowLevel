@@ -1,6 +1,6 @@
 # More Pointers, Arrays, and Strings
 
-![Day 7 Code]()
+![Day 7 Code](https://imgur.com/G9mHBqQ.jpg)
 *Continuing to explore pointers, arrays, and strings in C today!*
 
 ## Objective:
