@@ -1,6 +1,6 @@
 # More Functions and Nested Loops
 
-![Day 4 Code]()
+![Day 4 Code](https://imgur.com/xCiFiSk.jpg)
 *Practicing more functions and nested loops in C today!*
 
 ## Objective:

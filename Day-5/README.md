@@ -1,6 +1,6 @@
 # Pointers and Arrays
 
-![Day 5 Code]()
+![Day 5 Code](https://imgur.com/rheUpUb.jpg)
 *Learning about pointers and arrays in C today!*
 
 ## Objective:
