@@ -1,6 +1,6 @@
-# Day 6: Pointers, Arrays, and Strings
+# Pointers, Arrays, and Strings
 
-Day 6 Code
+![Day 6 Code](https://imgur.com/Qqhm6TO.jpg)
 *Diving deeper into pointers, arrays, and strings in C today!*
 
 ## Objective:
